@@ -73,6 +73,9 @@ nav ul li a {
     text-decoration: none;
     font-size: 18px;
 }
+
+/* %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% */
+
 .header-text {
     margin-top: 25%;
     font-size: 20px;
@@ -86,8 +89,10 @@ nav ul li a {
     font-size: 20px;
     margin-top: 10px;
 }
-
-
+.header-text p{
+    font-size: 17px;
+    
+}
 .header-text h1 span {
     color:#000cff;
 }
@@ -452,6 +457,7 @@ nav .fa-solid{
 }
 @media only screen and (max-width: 600px) {
     #header{
+        
         /* background-image: url(image/Artboard\ 13.jpg); */
     }
    
